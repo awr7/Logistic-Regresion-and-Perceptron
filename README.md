@@ -1,1 +1,3 @@
 # Logistic-Regresion-and-Perceptron
+
+In this project, I have implemented and analyzed two pivotal machine learning algorithms: Logistic Regression and the Perceptron. The project involves building these algorithms from the ground up, focusing on their application to real-world data scenarios. The Logistic Regression model is crafted using a Maximum Likelihood Estimation (MLE) technique, while the Perceptron model is developed through its foundational learning update mechanism. Key aspects of the project include generating diverse datasets to challenge the models, and a thorough evaluation of their performance. Additionally, I have benchmarked these models against established frameworks from the Sci-kit Learn library to ensure robustness and accuracy.
